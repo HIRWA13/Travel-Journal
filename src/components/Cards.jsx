@@ -1,4 +1,3 @@
-import { data } from 'autoprefixer';
 import {travelData} from '../assets/travelData.js'
 import Card from './Card.jsx'
 
@@ -11,8 +10,7 @@ export default function Cards() {
     })
     return (
         <>  
-            <h1>combined cards</h1>
-            {travel}
+            <section className='mt-10 mb-10 flex flex-col gap-4'>{travel}</section>
         </>
     );
 }
