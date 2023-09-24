@@ -26,7 +26,7 @@ export const travelData = [
         googleMaps: "https://maps.app.goo.gl/jzSY7RiJEJ345GQU8",
         startDate: "19 Aug 2023",
         endDate: "23 Aug 2023",
-        description: "The Radisson Blu Hotel Kigali is a luxurious and contemporary hotel located in the vibrant capital city of Rwanda. This upscale hotel offers a blend of modern amenities and African hospitality, making it a top choice for discerning travelers...",
+        description: "The Radisson Blu Hotel Kigali is a luxurious and contemporary hotel located in the vibrant capital city of Rwanda. This upscale hotel offers a blend of modern amenities and African hospitality, making it a top choice for discerning travelers.",
         imgUrl: "radisson blu hotel.jpg"
     }
 ]
